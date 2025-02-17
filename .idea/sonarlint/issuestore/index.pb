@@ -13,3 +13,7 @@ G
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
 H
 contracts/milestone.clar,4/f/4fc62598654be8c1c722f6fda40ac0871a1ec752
+G
+tests/milestone.test.ts,3/b/3b241e25d1937b26b5fc6500f21839cadd73507a
+>
+.gitattributes,2/4/24139dae656713ba861751fb2c2ac38839349a7a
